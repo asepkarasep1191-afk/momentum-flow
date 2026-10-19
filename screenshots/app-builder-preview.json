@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "MomentumFlow · DeFi Momentum Screener",
+      "hasCanvas": false,
+      "bodyTextLen": 607,
+      "bodyTextHash": "b54cf7a1ed632b61adb37561e1cc137dbe9b950bf2c9a663009e2056947423a3",
+      "bodyTextPrefix": "MomentumFlow DeFi momentum screener Scalp 5m/15m Swing 1H/4H CHA",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "MomentumFlow · DeFi Momentum Screener",
+      "hasCanvas": false,
+      "bodyTextLen": 863,
+      "bodyTextHash": "3861e000adb9e67ff4a6e56849218224fedaca75fb634c6c5f2e74a6f00d7d18",
+      "bodyTextPrefix": "MomentumFlow DeFi momentum screener Scalp Swing CHAINS SOL ETH B",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
